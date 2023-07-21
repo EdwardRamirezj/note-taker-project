@@ -1,5 +1,7 @@
 # note-taker-project
 
+# Decription
+This weeks challenge we created a funtional note taking app that would save and delete note/tasks written on the template. A starter code was given to us. The main focus of this challenge was to focus on the backend development part of an app. The following was the accepted criteria. 
 # Accepted Criteria 
 
 ```
@@ -17,3 +19,11 @@ THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 ```
+
+# Usage
+* Node JS
+* NPM
+* Express
+* Inquirer
+
+  
